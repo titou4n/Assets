@@ -1,0 +1,47 @@
+# Dossiers et fichiers de configuration d'IDE
+.idea/
+.vscode/
+
+# Fichiers de projet Unity générés automatiquement
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+OlympusTribute.sln
+
+# Dossiers Unity à ignorer
+#Assets/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+
+# Fichiers de build
+Builds/
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
+
+# Fichiers de log
+*.log
+
+# Ignorer les métadonnées de Unity Collab
+collab/
+
+# Ignorer les fichiers de réglages spécifiques aux utilisateurs
+Temp/
+Obj/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.sln.dotSettings
+
+# Fichiers de configuration macOS
+.DS_Store
+
+# Fichiers de configuration Windows
+Thumbs.db
